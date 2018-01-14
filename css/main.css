@@ -30,11 +30,11 @@ nav ul {
   color: #93a1a1;
 }
 
-.wrapper>.dfn {
+.wrapper> .dfn {
   background-color: #b58900;
 }
 
-.dfn p+strong {
+.dfn p+ strong {
   color: #fff;
 }
 
@@ -60,7 +60,6 @@ ol li:last-child {
 
 .types li:nth-of-type(even) {
   background-color: #586e75;
-  ;
 }
 
 .types li:nth-of-type(3n) {
